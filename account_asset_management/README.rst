@@ -58,6 +58,18 @@ The module in NOT compatible with the standard account_asset module.
 Changelog
 =========
 
+13.0.3.0.0 (2021-07-06)
+~~~~~~~~~~~~~~~~~~~~~~~
+
+* Allow to reverse the posting of a depreciation line instead of deleting the
+  journal entry.
+
+13.0.2.0.0 (2021-02-19)
+~~~~~~~~~~~~~~~~~~~~~~~
+
+* Add support for multi-company
+
+
 13.0.1.0.0 (2019-10-21)
 ~~~~~~~~~~~~~~~~~~~~~~~
 
@@ -122,6 +134,12 @@ Contributors
 
   * Ernesto Tejeda
   * Pedro M. Baeza
+  * Víctor Martínez
+  * João Marques
+
+* `ForgeFlow <https://www.forgeflow.com>`_:
+
+  * Jordi Ballester <jordi.ballester@forgeflow.com>
 
 Maintainers
 ~~~~~~~~~~~
